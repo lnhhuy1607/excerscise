@@ -38,7 +38,7 @@
         android:layout_height="wrap_content"
         android:text="Teacher"
         android:textColor="#FFFFFF"
-        android:textSize="18sp"
+        android:textSize="36sp"
         android:textStyle="bold"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
